@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passengersapi", "passengersapi\passengersapi.csproj", "{32CD1F3C-66A2-4600-A75E-54EE2E431BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightgateway", "flightgateway\flightgateway.csproj", "{BE458D85-F2C3-4ECF-BB1A-5118308F5EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightsapi", "flightsapi\flightsapi.csproj", "{951E5CE4-923F-4433-BE52-1E62F2A200A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CD1F3C-66A2-4600-A75E-54EE2E431BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CD1F3C-66A2-4600-A75E-54EE2E431BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CD1F3C-66A2-4600-A75E-54EE2E431BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CD1F3C-66A2-4600-A75E-54EE2E431BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE458D85-F2C3-4ECF-BB1A-5118308F5EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE458D85-F2C3-4ECF-BB1A-5118308F5EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE458D85-F2C3-4ECF-BB1A-5118308F5EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE458D85-F2C3-4ECF-BB1A-5118308F5EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951E5CE4-923F-4433-BE52-1E62F2A200A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951E5CE4-923F-4433-BE52-1E62F2A200A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951E5CE4-923F-4433-BE52-1E62F2A200A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951E5CE4-923F-4433-BE52-1E62F2A200A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

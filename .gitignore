@@ -1,0 +1,8 @@
+#SECTION 1
+/section_1/.vscode
+/section_1/FlightGateway/bin
+/section_1/FlightGateway/obj
+/section_1/FlightsApi/bin
+/section_1/FlightsApi/obj
+/section_1/PassengersApi/bin
+/section_1/PassengersApi/obj
